@@ -18,7 +18,7 @@ if (Percentage>=90){
   Div = "2nd"
 }
   else if (Percentage>=55){
-  Div = "3rd"
+  Div = "2rd"
   }
   else {
     Div = "fail"
